@@ -1,0 +1,35 @@
+.projects {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.projects .title {
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    padding: 0 0 1rem 0;
+    font-weight: 800;
+    font-size: 1.25rem;
+    margin: 0;
+}
+
+.projects li {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.projects li .title.github::before {
+    content: '';
+    display: inline-block;
+    margin-right: .75rem;
+    background-image: url(/assets/img/icons/github.svg);
+    width: 1.5rem;
+    height: 1.25rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

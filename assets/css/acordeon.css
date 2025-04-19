@@ -1,0 +1,73 @@
+.acordeon {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 1rem auto;
+    border: 1px solid white;
+    border-radius: 1rem;
+    transition: .35s;
+}
+
+.acordeon.open,
+.acordeon:hover {
+    background-color: #55569E;
+    border-color: #55569E;
+}
+
+.acordeon .trigger:hover {
+    cursor: pointer;
+    
+}
+
+.acordeon .trigger {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: start;
+    padding: 1rem 2rem;
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+.acordeon .trigger h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.acordeon .trigger::after {
+    content: '';
+    background-image: url('/assets/img/icons/arrow.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1.5rem;
+    height: 1rem;
+    transition: .5s linear(0 0%, 0 1.8%, 0.01 3.6%, 0.03 6.35%,
+    0.07 9.1%, 0.13 11.4%, 0.19 13.4%, 0.27 15%, 0.34 16.1%, 0.54 18.35%, 
+    0.66 20.6%, 0.72 22.4%, 0.77 24.6%, 0.81 27.3%, 0.85 30.4%, 0.88 35.1%, 
+    0.92 40.6%, 0.94 47.2%, 0.96 55%, 0.98 64%, 0.99 74.4%, 1 86.4%, 1 100%);
+}
+
+.acordeon.open .trigger::after {
+    transition: .5s linear(0 0%, 0 1.8%, 0.01 3.6%, 0.03 6.35%,
+    0.07 9.1%, 0.13 11.4%, 0.19 13.4%, 0.27 15%, 0.34 16.1%, 0.54 18.35%, 
+    0.66 20.6%, 0.72 22.4%, 0.77 24.6%, 0.81 27.3%, 0.85 30.4%, 0.88 35.1%, 
+    0.92 40.6%, 0.94 47.2%, 0.96 55%, 0.98 64%, 0.99 74.4%, 1 86.4%, 1 100%);
+    transform: rotate(-180deg);
+}
+
+.acordeon .content {
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    transition: opacity .25s  ease-in-out;
+}
+
+.acordeon.open .content {
+    display: block;
+    padding: 0 1rem 1rem 1rem;
+    height: auto;
+    opacity: 1;
+}

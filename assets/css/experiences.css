@@ -1,0 +1,44 @@
+.experiences {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+.experiences .title {
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    padding: 0 0 1rem 0;
+    font-weight: 800;
+    font-size: 1.25rem;
+    margin: 0;
+}
+
+.experiences li {
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.experiences li .period::before {
+    content: '';
+    display: inline-block;
+    margin-right: .75rem;
+    background-image: url(/assets/img/icons/calendar.svg);
+    width: 1.5rem;
+    height: 1.25rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.experiences li .period {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 0 1rem 0;
+}
+
+.experiences li p {
+    margin: 0;
+}
