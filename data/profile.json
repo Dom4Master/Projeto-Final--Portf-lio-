@@ -10,39 +10,39 @@
       "hardSkills": [
         {
           "name": "AWS",
-          "logo": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/aws.svg"
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/aws.svg"
         },
         {
           "name": "CSS",
-          "logo": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/css.svg"
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/css.svg"
         },
         {
           "name": "Git",
-          "logo": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/git.svg"
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/git.svg"
         },
         {
           "name": "GitHub",
-          "logo": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/github.svg"
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/github.svg"
         },
         {
           "name": "HTML5",
-          "logo": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/html5.svg"
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/html5.svg"
         },
         {
           "name": "JavaScript",
-          "logo": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/js.svg"
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/js.svg"
         },
         {
           "name": "MySQL",
-          "logo": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/mysql.svg"
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/mysql.svg"
         },
         {
           "name": "NodeJS",
-          "logo": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/nodejs.svg"
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/nodejs.svg"
         },
         {
           "name": "Python",
-          "logo": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/python.svg"
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/raw/refs/heads/main/assets/img/python.svg"
         }
       ],
       "softSkills": [
