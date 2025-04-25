@@ -11,7 +11,7 @@
     padding-top: 1rem;
 }
 
-.skills .hard-skills {
+.skills div {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     row-gap: 1rem ;
@@ -19,12 +19,12 @@
     padding: 1rem 0 1rem;
 }
 
-.skills .hard-skills img {
-    width: 50px;
-    height: 50px;
+.skills div img {
+    max-width: 50px;
+    max-height: 50px;
 }
 
-.skills .soft-skills {
+.skills ul {
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -40,13 +40,13 @@
         text-align: center;
     }
 
-    .skills .soft-skills {
+    .skills ul {
         display: grid;
         grid-template-columns: 50% 50%;
     }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 425px) {
 
     .skills {
         display: flex;
