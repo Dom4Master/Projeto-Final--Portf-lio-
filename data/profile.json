@@ -1,6 +1,6 @@
 
 {
-    "name": "Luis Antonio Costa Neto",
+    "name": "Luis Antonio ",
     "photo": "https://avatars.githubusercontent.com/u/137007574?v=4",
     "job": "Acadêmico de Eng. de Controle e Automação",
     "location": "Porto Velho - RO",
@@ -9,36 +9,48 @@
     "skills": {
       "hardSkills": [
         {
-          "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "name": "AWS",
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/aws.svg"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/css.svg"
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/git.svg"
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/github.svg"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/html5.svg"
         },
         {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/js.svg"
+        },
+        {
+          "name": "MySQL",
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/mysql.svg"
+        },
+        {
+          "name": "NodeJS",
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/nodejs.svg"
+        },
+        {
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/Dom4Master/Projeto-Final--Portf-lio-/refs/heads/main/assets/img/python.svg"
         }
       ],
       "softSkills": [
-        "Empatia",
-        "Liderança",
-        "Trabalho em equipe",
-        "Flexibilidade",
-        "Organização"
+        "Comprometimento",
+        "Comunicação",
+        "Organização",
+        "Resolução de Problemas",
+        "Trabalho em Equipe"
       ]
     },
     "languages": [
