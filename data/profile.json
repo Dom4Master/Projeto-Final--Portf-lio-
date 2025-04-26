@@ -75,7 +75,7 @@
         "name": "Estágio em TI",
         "period": "10/2023 - 10/2024",
         "description": 
-        " • Suporte e manutenção de equipamentos. • Desenvolvimento de um aplicativo mobile para controle de frota da UNIR. O app teria a função de rastrear o percurso do veículo e saber qual estaria sendo usado pela placa e hodômetro, que seria lida por uma função OCR e consultada no Banco de Dados dos veículos para confirmação. Foi utilizado o Android Studio com linguagem Java e o banco de dados foi o PostgreSQL.  • Acompanhar a manutenção em rack de servidor e equipamentos de rede. • Dar suporte aos sistemas da instituição. • Atender aos servidores da instituição referente a sistemas ou equipamentos."
+        "• Suporte e manutenção de equipamentos. • Desenvolvimento de um aplicativo mobile para controle de frota da UNIR. O app teria a função de rastrear o percurso do veículo e saber qual estaria sendo usado pela placa e hodômetro, que seria lida por uma função OCR e consultada no Banco de Dados dos veículos para confirmação. Foi utilizado o Android Studio com linguagem Java e o banco de dados foi o PostgreSQL.  • Acompanhar a manutenção em rack de servidor e equipamentos de rede. • Dar suporte aos sistemas da instituição. • Atender aos servidores da instituição referente a sistemas ou equipamentos."
       },
       {
         "name": "Estágio em Suporte e Manutenção de TI",
