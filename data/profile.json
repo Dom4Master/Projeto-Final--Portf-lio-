@@ -54,38 +54,34 @@
       ]
     },
     "languages": [
-      "Português BR",
-      "Inglês (intermediário)",
-      "Espanhol (intermediário)",
-      "Italiano (iniciante)"
+      "Português - BR (Nativo)",
+      "Inglês (Avançado)",
+      "Espanhol (Básico)"
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Construindo uma Página de Portfólio Profissional",
+        "url": "https://github.com/Dom4Master/Projeto-Final--Portf-lio-",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Construindo uma Pokédex com JavaScript",
+        "url": "https://github.com/Dom4Master/js-developer-pokedex",
         "github": true
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Estágio em TI",
+        "period": "10/2023 - 10/2024",
+        "description": 
+        "• Suporte e manutenção de equipamentos.<br>• Desenvolvimento de um aplicativo mobile para controle de frota da UNIR. O app teria a função de rastrear o percurso do veículo e saber qual estaria sendo usado pela placa e hodômetro, que seria lida por uma função OCR e consultada no Banco de Dados dos veículos para confirmação. Foi utilizado o Android Studio com linguagem Java e o banco de dados foi o PostgreSQL.<br>• Acompanhar a manutenção em rack de servidor e equipamentos de rede.<br>• Dar suporte aos sistemas da instituição.<br>• Atender aos servidores da instituição referente a sistemas ou equipamentos."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Estágio em Suporte e Manutenção de TI",
+        "period": "07/2022 - 10/2022",
+        "description": 
+        "• Avaliação, montagem, instalação de equipamentos de informática.<br>• Instalação, manutenção e configuração de sistemas operacionais e aplicativos.<br>• Cabeamento e configuração de redes.<br>• Atividades de suporte e manutenção em computadores e impressoras realizadas no parque computacional do IFRO.<br>• O IFRO recebeu doação de computadores e impressoras do TJRO, contribuindo com o aprendizado prático, em que foi possível recuperar 15 (quinze) impressoras a laser e mais de 100 (cem) computadores."
       }
     ]
   }
