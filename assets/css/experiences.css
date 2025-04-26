@@ -25,7 +25,7 @@
     content: '';
     display: inline-block;
     margin-right: .75rem;
-    background-image: url(/assets/img/icons/calendar.svg);
+    background-image: url(../img/icons/calendar.svg);
     width: 1.5rem;
     height: 1.25rem;
     background-repeat: no-repeat;
