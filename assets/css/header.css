@@ -28,6 +28,10 @@ header::before {
     font-family: 'Neue Machina';
 }
 
+.title span {
+    font-family: 'Neue Machina';
+}
+
 .information p {
     display: flex;
     align-items: center;

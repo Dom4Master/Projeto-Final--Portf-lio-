@@ -1,4 +1,4 @@
-.languages {
+.content.languages ul {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -8,14 +8,14 @@
     list-style: none;
 }
 
-.languages li {
+.content.languages li {
     display: flex;
     align-items: center;
     padding: 1rem;
     font-weight: 700;
 }
 
-.languages li::before {
+.content.languages li::before {
     content: '';
     margin-right: .75rem;
     background-image: url(/assets/img/icons/check.svg);
